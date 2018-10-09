@@ -1,6 +1,6 @@
 # ObservablesUnitTests1
 
-I created this project to demonstrate two methods I use to unit test an API call from an intermediate service that connects to another service. 
+I created this project to demonstrate and discuss two methods I use to unit test an API call from an intermediate service that connects to another service. 
 
 See [/src/app/shared/services/intermediate.service.spec.ts](https://github.com/tomwhite007/ObservablesUnitTests1/blob/master/src/app/shared/services/intermediate.service.spec.ts)
 
